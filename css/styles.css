@@ -1,0 +1,12 @@
+body{
+  background-color: black;
+  color: limegreen;
+  text-align: center;
+}
+#div1 {
+margin: auto;
+}
+
+#div1 img{
+  display:none;
+}
